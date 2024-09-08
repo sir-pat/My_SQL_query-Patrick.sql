@@ -10,4 +10,5 @@ Step6:Query the database to provide a list of regions, sales representatives, an
 Step7:Query the database to show the region name, account name, and the unit price for each order. The unit price was calculated by dividing the total amount by the total quantity plus a small value to avoid division by zero.
 Step8:Query the database to count the total number of rows in the accounts table. This provides a simple count of all accounts.
 Step9:Query the database to calculate the total quantity of poster paper ordered from the orders table. This helped to understand the total demand for poster paper.
+
 Step10:Query the database to find the date and time when the most recent web event occurred. This uses the MAX function to get the latest event date.
